@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\greenco"
+		},
+		{
+			"path": "..\\..\\..\\project_code"
+		},
+		{
+			"path": "..\\..\\..\\project2"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Wordpress"
+	}
+}
